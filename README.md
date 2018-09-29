@@ -1,7 +1,10 @@
 # PirateCell
 # C# Library which is used for cryptographic Functions 
 
-import PirateCell Library
+
+
+import the PirateCell.dll or download it using the Nuget package manager console.
+Install-Package PirateCell
 
 Functions in this library:
 
